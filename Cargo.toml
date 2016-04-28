@@ -22,6 +22,7 @@ doctest = false
 debugmozjs = ['mozjs_sys/debugmozjs']
 
 [dependencies.mozjs_sys]
+branch = "smup"
 git = "https://github.com/servo/mozjs"
 
 [dependencies]
